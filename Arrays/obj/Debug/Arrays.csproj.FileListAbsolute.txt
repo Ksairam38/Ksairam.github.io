@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb

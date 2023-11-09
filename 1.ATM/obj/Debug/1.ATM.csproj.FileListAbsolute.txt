@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\1.ATM\bin\Debug\1.ATM.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\1.ATM\bin\Debug\1.ATM.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\1.ATM\bin\Debug\1.ATM.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\1.ATM\obj\Debug\1.ATM.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\1.ATM\obj\Debug\1.ATM.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\1.ATM\obj\Debug\1.ATM.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\1.ATM\obj\Debug\1.ATM.pdb

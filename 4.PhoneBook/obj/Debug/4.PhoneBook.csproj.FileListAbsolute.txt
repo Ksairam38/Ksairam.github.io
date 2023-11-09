@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\4.PhoneBook\bin\Debug\4.PhoneBook.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\4.PhoneBook\bin\Debug\4.PhoneBook.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\4.PhoneBook\bin\Debug\4.PhoneBook.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\4.PhoneBook\obj\Debug\4.PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\4.PhoneBook\obj\Debug\4.PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\4.PhoneBook\obj\Debug\4.PhoneBook.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\4.PhoneBook\obj\Debug\4.PhoneBook.pdb

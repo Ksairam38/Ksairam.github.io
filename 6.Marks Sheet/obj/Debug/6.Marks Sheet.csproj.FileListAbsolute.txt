@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\6.Marks Sheet\bin\Debug\6.Marks Sheet.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\6.Marks Sheet\bin\Debug\6.Marks Sheet.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\6.Marks Sheet\bin\Debug\6.Marks Sheet.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\6.Marks Sheet\obj\Debug\6.Marks Sheet.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\6.Marks Sheet\obj\Debug\6.Marks Sheet.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\6.Marks Sheet\obj\Debug\6.Marks Sheet.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\6.Marks Sheet\obj\Debug\6.Marks Sheet.pdb
