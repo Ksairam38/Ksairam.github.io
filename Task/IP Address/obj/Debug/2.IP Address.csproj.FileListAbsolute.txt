@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Task\IP Address\bin\Debug\IP Address.exe.config
+C:\Users\Ahex-Tech\source\repos\Task\IP Address\bin\Debug\IP Address.exe
+C:\Users\Ahex-Tech\source\repos\Task\IP Address\bin\Debug\IP Address.pdb
+C:\Users\Ahex-Tech\source\repos\Task\IP Address\obj\Debug\2.IP Address.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Task\IP Address\obj\Debug\2.IP Address.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Task\IP Address\obj\Debug\IP Address.exe
+C:\Users\Ahex-Tech\source\repos\Task\IP Address\obj\Debug\IP Address.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Task\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ahex-Tech\source\repos\Task\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ahex-Tech\source\repos\Task\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ahex-Tech\source\repos\Task\ConsoleApp1\obj\Debug\3.Authentication.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Task\ConsoleApp1\obj\Debug\3.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Task\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ahex-Tech\source\repos\Task\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
