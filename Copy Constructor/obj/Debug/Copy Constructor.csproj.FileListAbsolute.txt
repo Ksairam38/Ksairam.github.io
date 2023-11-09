@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\Copy Constructor\bin\Debug\Copy Constructor.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\Copy Constructor\bin\Debug\Copy Constructor.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\Copy Constructor\bin\Debug\Copy Constructor.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\Copy Constructor\obj\Debug\Copy Constructor.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\Copy Constructor\obj\Debug\Copy Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\Copy Constructor\obj\Debug\Copy Constructor.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\Copy Constructor\obj\Debug\Copy Constructor.pdb

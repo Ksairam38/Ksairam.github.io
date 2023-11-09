@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\D while\bin\Debug\D while.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\D while\bin\Debug\D while.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\D while\bin\Debug\D while.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\D while\obj\Debug\D while.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\D while\obj\Debug\D while.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\D while\obj\Debug\D while.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\D while\obj\Debug\D while.pdb

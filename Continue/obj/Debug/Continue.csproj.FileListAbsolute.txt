@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\Continue\bin\Debug\Continue.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\Continue\bin\Debug\Continue.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\Continue\bin\Debug\Continue.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\Continue\obj\Debug\Continue.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\Continue\obj\Debug\Continue.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\Continue\obj\Debug\Continue.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\Continue\obj\Debug\Continue.pdb

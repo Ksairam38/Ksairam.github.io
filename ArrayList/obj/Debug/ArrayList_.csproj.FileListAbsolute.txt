@@ -1,0 +1,7 @@
+C:\Users\Ahex-Tech\source\repos\Arrays\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\Ahex-Tech\source\repos\Arrays\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\Ahex-Tech\source\repos\Arrays\ArrayList\obj\Debug\ArrayList_.csproj.AssemblyReference.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\ArrayList\obj\Debug\ArrayList_.csproj.CoreCompileInputs.cache
+C:\Users\Ahex-Tech\source\repos\Arrays\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\Ahex-Tech\source\repos\Arrays\ArrayList\obj\Debug\ArrayList.pdb
